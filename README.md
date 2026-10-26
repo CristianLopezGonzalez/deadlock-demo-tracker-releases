@@ -9,3 +9,9 @@ Este repositorio solo contiene las versiones publicadas. Para instalarla:
 3. Windows SmartScreen puede avisar de que la app no está reconocida, porque el instalador todavía no está firmado. Pulsa «Más información › Ejecutar de todas formas».
 
 La app se actualiza sola cuando sale una versión nueva.
+
+## Créditos
+
+- Los nombres e imágenes de héroes, objetos, rangos y el mapa vienen de [Deadlock API](https://deadlock-api.com). Se descargan al publicar cada versión; la app no le envía ningún dato.
+- Las demos se leen con [boon](https://github.com/pnxenopoulos/boon).
+- Deadlock es un juego de Valve. Esta app no está afiliada a Valve ni respaldada por Valve.
